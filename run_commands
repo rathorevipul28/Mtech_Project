@@ -1,0 +1,2 @@
+source activate propara
+python propara/eval/evalQA.py tests/fixtures/eval/para_id.test.txt tests/fixtures/eval/gold_labels.test.tsv tests/fixtures/eval/sample.model.test_predictions.tsv
