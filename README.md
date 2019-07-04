@@ -9,9 +9,9 @@ python ProGCN/evalQA.py propara_naacl_2018/tests/fixtures/eval/para_id.test.txt 
 
 **Sample Output -**
 
-|	|Total	|TP	|FP	|TN	|FN	|Accuracy	|Precision	|Recall	|F1
-|  --- | --- | ------ | --- | ------ | --- | ---
-Q1	1245	0	0	577	668	46.35	0.00	0.00	0.00
+  |	Total	| TP	| FP	| TN	| FN	| Accuracy	| Precision	| Recall	| F1 |
+  | ----- | --- | ----| --- | ----| --------- | --------- | ------  | ---|
+Q1|1245	  |0    |	0	  | 577	| 668 |	46.35	    | 0.00      |0.00     |0.00|
 Q2	677	0	0	0	677	0.00	0.00	0.00	0.00
 Q3	529	148	194	0	187	27.98	43.27	44.18	43.72
 Q4	1245	220	200	358	467	46.43	52.38	32.02	39.75
