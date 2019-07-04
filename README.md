@@ -31,3 +31,9 @@ Q10	691	143	363	0	185	20.69	28.26	43.60	34.29
 #Cat-3		23.5
 #macro-avg	26.47
 #micro-avg	27.78
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
