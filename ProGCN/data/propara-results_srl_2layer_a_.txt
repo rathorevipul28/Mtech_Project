@@ -1,0 +1,1820 @@
+927	1	rain	unk	null
+927	2	rain	null	null
+927	3	rain	null	null
+927	4	rain	null	null
+927	5	rain	null	null
+927	6	rain	null	null
+927	1	plants	unk	null
+927	2	plants	null	null
+927	3	plants	null	null
+927	4	plants	null	null
+927	5	plants	null	null
+927	6	plants	null	null
+927	1	trees	unk	null
+927	2	trees	null	null
+927	3	trees	null	null
+927	4	trees	null	null
+927	5	trees	null	null
+927	6	trees	null	null
+927	1	land	unk	null
+927	2	land	null	null
+927	3	land	null	null
+927	4	land	null	null
+927	5	land	null	null
+927	6	land	null	null
+927	1	rain water	unk	null
+927	2	rain water	null	null
+927	3	rain water	null	null
+927	4	rain water	null	null
+927	5	rain water	null	null
+927	6	rain water	null	null
+927	1	water	unk	null
+927	2	water	null	null
+927	3	water	null	null
+927	4	water	null	null
+927	5	water	null	null
+927	6	water	null	null
+1240	1	heat	unk	null
+1240	2	heat	null	null
+1240	3	heat	null	null
+1240	4	heat	null	null
+1240	5	heat	null	null
+1240	6	heat	null	null
+1240	7	heat	null	null
+1240	8	heat	null	null
+1240	1	liquid	unk	null
+1240	2	liquid	null	null
+1240	3	liquid	null	null
+1240	4	liquid	null	null
+1240	5	liquid	null	null
+1240	6	liquid	null	null
+1240	7	liquid	null	null
+1240	8	liquid	null	null
+1240	1	air	unk	null
+1240	2	air	null	null
+1240	3	air	null	null
+1240	4	air	null	null
+1240	5	air	null	null
+1240	6	air	null	null
+1240	7	air	null	null
+1240	8	air	null	null
+932	1	rocks	unk	null
+932	2	rocks	null	null
+932	3	rocks	null	null
+932	4	rocks	null	null
+932	5	rocks	null	null
+932	6	rocks	null	null
+932	1	chemicals	unk	null
+932	2	chemicals	null	null
+932	3	chemicals	null	null
+932	4	chemicals	null	null
+932	5	chemicals	null	null
+932	6	chemicals	null	null
+932	1	water	unk	null
+932	2	water	null	null
+932	3	water	null	null
+932	4	water	null	null
+932	5	water	null	null
+932	6	water	null	null
+932	1	oxygen	unk	null
+932	2	oxygen	null	null
+932	3	oxygen	null	null
+932	4	oxygen	null	null
+932	5	oxygen	null	null
+932	6	oxygen	null	null
+933	1	rock	unk	null
+933	2	rock	null	null
+933	3	rock	null	null
+933	4	rock	null	null
+933	5	rock	null	null
+933	1	carbon dioxide	unk	null
+933	2	carbon dioxide	null	null
+933	3	carbon dioxide	null	null
+933	4	carbon dioxide	null	null
+933	5	carbon dioxide	null	null
+933	1	mineral base material	unk	null
+933	2	mineral base material	null	null
+933	3	mineral base material	null	null
+933	4	mineral base material	null	null
+933	5	mineral base material	null	null
+933	1	water	unk	null
+933	2	water	null	null
+933	3	water	null	null
+933	4	water	null	null
+933	5	water	null	null
+1033	1	rock	unk	null
+1033	2	rock	null	null
+1033	3	rock	null	null
+1033	4	rock	null	null
+1033	5	rock	null	null
+1033	6	rock	null	null
+1033	1	skeleton	unk	null
+1033	2	skeleton	null	null
+1033	3	skeleton	null	null
+1033	4	skeleton	null	null
+1033	5	skeleton	null	null
+1033	6	skeleton	null	null
+1033	1	animal	unk	null
+1033	2	animal	null	null
+1033	3	animal	null	null
+1033	4	animal	null	null
+1033	5	animal	null	null
+1033	6	animal	null	null
+1033	1	mold	unk	null
+1033	2	mold	null	null
+1033	3	mold	null	null
+1033	4	mold	null	null
+1033	5	mold	null	null
+1033	6	mold	null	null
+1032	1	rock	unk	null
+1032	2	rock	null	null
+1032	3	rock	null	null
+1032	4	rock	null	null
+1032	5	rock	null	null
+1032	6	rock	null	null
+1032	1	plants	unk	null
+1032	2	plants	null	null
+1032	3	plants	null	null
+1032	4	plants	null	null
+1032	5	plants	null	null
+1032	6	plants	null	null
+1032	1	animals	unk	null
+1032	2	animals	null	null
+1032	3	animals	null	null
+1032	4	animals	null	null
+1032	5	animals	null	null
+1032	6	animals	null	null
+1032	1	remains	unk	null
+1032	2	remains	null	null
+1032	3	remains	null	null
+1032	4	remains	null	null
+1032	5	remains	null	null
+1032	6	remains	null	null
+1032	1	bones and hard tissues	unk	null
+1032	2	bones and hard tissues	null	null
+1032	3	bones and hard tissues	null	null
+1032	4	bones and hard tissues	null	null
+1032	5	bones and hard tissues	null	null
+1032	6	bones and hard tissues	null	null
+1032	1	sediment	unk	null
+1032	2	sediment	null	null
+1032	3	sediment	null	null
+1032	4	sediment	null	null
+1032	5	sediment	null	null
+1032	6	sediment	null	null
+1031	1	rock	unk	null
+1031	2	rock	null	null
+1031	3	rock	null	null
+1031	4	rock	null	null
+1031	5	rock	null	null
+1031	1	bones	unk	null
+1031	2	bones	null	null
+1031	3	bones	null	null
+1031	4	bones	null	null
+1031	5	bones	null	null
+1031	1	plant or animal	unk	null
+1031	2	plant or animal	null	null
+1031	3	plant or animal	null	null
+1031	4	plant or animal	null	null
+1031	5	plant or animal	null	null
+1031	1	fossil	unk	null
+1031	2	fossil	null	null
+1031	3	fossil	null	null
+1031	4	fossil	null	null
+1031	5	fossil	null	null
+1031	1	sediment	unk	null
+1031	2	sediment	null	null
+1031	3	sediment	null	null
+1031	4	sediment	null	null
+1031	5	sediment	null	null
+1147	1	star	unk	null
+1147	2	star	null	null
+1147	3	star	null	null
+1147	4	star	null	null
+1147	5	star	null	null
+1147	6	star	null	null
+1147	1	helium atoms	unk	null
+1147	2	helium atoms	null	null
+1147	3	helium atoms	null	null
+1147	4	helium atoms	null	null
+1147	5	helium atoms	null	null
+1147	6	helium atoms	null	null
+1147	1	hydrogen	unk	null
+1147	2	hydrogen	null	null
+1147	3	hydrogen	null	null
+1147	4	hydrogen	null	null
+1147	5	hydrogen	null	null
+1147	6	hydrogen	null	null
+1147	1	helium	unk	null
+1147	2	helium	null	null
+1147	3	helium	null	null
+1147	4	helium	null	null
+1147	5	helium	null	null
+1147	6	helium	null	null
+1147	1	hydrogen atoms	unk	null
+1147	2	hydrogen atoms	null	null
+1147	3	hydrogen atoms	null	null
+1147	4	hydrogen atoms	null	null
+1147	5	hydrogen atoms	null	null
+1147	6	hydrogen atoms	null	null
+1147	1	carbon atoms	unk	null
+1147	2	carbon atoms	null	null
+1147	3	carbon atoms	null	null
+1147	4	carbon atoms	null	null
+1147	5	carbon atoms	null	null
+1147	6	carbon atoms	null	null
+1146	1	star	unk	null
+1146	2	star	null	null
+1146	3	star	null	null
+1146	4	star	null	null
+1146	5	star	null	null
+1146	6	star	null	null
+1146	7	star	null	null
+1146	8	star	null	null
+1146	9	star	null	null
+1146	10	star	null	null
+1146	1	hydrogen fuel	unk	null
+1146	2	hydrogen fuel	null	null
+1146	3	hydrogen fuel	null	null
+1146	4	hydrogen fuel	null	null
+1146	5	hydrogen fuel	null	null
+1146	6	hydrogen fuel	null	null
+1146	7	hydrogen fuel	null	null
+1146	8	hydrogen fuel	null	null
+1146	9	hydrogen fuel	null	null
+1146	10	hydrogen fuel	null	null
+1146	1	hydrogen	unk	null
+1146	2	hydrogen	null	null
+1146	3	hydrogen	null	null
+1146	4	hydrogen	null	null
+1146	5	hydrogen	null	null
+1146	6	hydrogen	null	null
+1146	7	hydrogen	null	null
+1146	8	hydrogen	null	null
+1146	9	hydrogen	null	null
+1146	10	hydrogen	null	null
+1146	1	helium	unk	null
+1146	2	helium	null	null
+1146	3	helium	null	null
+1146	4	helium	null	null
+1146	5	helium	null	null
+1146	6	helium	null	null
+1146	7	helium	null	null
+1146	8	helium	null	null
+1146	9	helium	null	null
+1146	10	helium	null	null
+1146	1	energy	unk	null
+1146	2	energy	null	null
+1146	3	energy	null	null
+1146	4	energy	null	null
+1146	5	energy	null	null
+1146	6	energy	null	null
+1146	7	energy	null	null
+1146	8	energy	null	null
+1146	9	energy	null	null
+1146	10	energy	null	null
+1146	1	carbon atoms	unk	null
+1146	2	carbon atoms	null	null
+1146	3	carbon atoms	null	null
+1146	4	carbon atoms	null	null
+1146	5	carbon atoms	null	null
+1146	6	carbon atoms	null	null
+1146	7	carbon atoms	null	null
+1146	8	carbon atoms	null	null
+1146	9	carbon atoms	null	null
+1146	10	carbon atoms	null	null
+600	1	hot gas	unk	null
+600	2	hot gas	null	null
+600	3	hot gas	null	null
+600	4	hot gas	null	null
+600	5	hot gas	null	null
+600	6	hot gas	null	null
+600	1	petrol	unk	null
+600	2	petrol	null	null
+600	3	petrol	null	null
+600	4	petrol	null	null
+600	5	petrol	null	null
+600	6	petrol	null	null
+600	1	fuel	unk	null
+600	2	fuel	null	null
+600	3	fuel	null	null
+600	4	fuel	null	null
+600	5	fuel	null	null
+600	6	fuel	null	null
+600	1	air	unk	null
+600	2	air	null	null
+600	3	air	null	null
+600	4	air	null	null
+600	5	air	null	null
+600	6	air	null	null
+600	1	energy	unk	null
+600	2	energy	null	null
+600	3	energy	null	null
+600	4	energy	null	null
+600	5	energy	null	null
+600	6	energy	null	null
+1145	1	red giant star	unk	null
+1145	2	red giant star	null	null
+1145	3	red giant star	null	null
+1145	4	red giant star	null	null
+1145	5	red giant star	null	null
+1145	1	hydrogen fuel	unk	null
+1145	2	hydrogen fuel	null	null
+1145	3	hydrogen fuel	null	null
+1145	4	hydrogen fuel	null	null
+1145	5	hydrogen fuel	null	null
+1145	1	helium atoms	unk	null
+1145	2	helium atoms	null	null
+1145	3	helium atoms	null	null
+1145	4	helium atoms	null	null
+1145	5	helium atoms	null	null
+1145	1	hydrogen atoms	unk	null
+1145	2	hydrogen atoms	null	null
+1145	3	hydrogen atoms	null	null
+1145	4	hydrogen atoms	null	null
+1145	5	hydrogen atoms	null	null
+725	1	rock	unk	null
+725	2	rock	null	null
+725	3	rock	null	null
+725	4	rock	null	null
+725	5	rock	null	null
+725	6	rock	null	null
+725	1	soft tissues	unk	null
+725	2	soft tissues	null	null
+725	3	soft tissues	null	null
+725	4	soft tissues	null	null
+725	5	soft tissues	null	null
+725	6	soft tissues	null	null
+725	1	plant	unk	null
+725	2	plant	null	null
+725	3	plant	null	null
+725	4	plant	null	null
+725	5	plant	null	null
+725	6	plant	null	null
+725	1	stone replica	unk	null
+725	2	stone replica	null	null
+725	3	stone replica	null	null
+725	4	stone replica	null	null
+725	5	stone replica	null	null
+725	6	stone replica	null	null
+725	1	animal	unk	null
+725	2	animal	null	null
+725	3	animal	null	null
+725	4	animal	null	null
+725	5	animal	null	null
+725	6	animal	null	null
+725	1	bones	unk	null
+725	2	bones	null	null
+725	3	bones	null	null
+725	4	bones	null	null
+725	5	bones	null	null
+725	6	bones	null	null
+725	1	minerals	unk	null
+725	2	minerals	null	null
+725	3	minerals	null	null
+725	4	minerals	null	null
+725	5	minerals	null	null
+725	6	minerals	null	null
+725	1	fossil	unk	null
+725	2	fossil	null	null
+725	3	fossil	null	null
+725	4	fossil	null	null
+725	5	fossil	null	null
+725	6	fossil	null	null
+725	1	sediment	unk	null
+725	2	sediment	null	null
+725	3	sediment	null	null
+725	4	sediment	null	null
+725	5	sediment	null	null
+725	6	sediment	null	null
+726	1	rock	unk	null
+726	2	rock	null	null
+726	3	rock	null	null
+726	4	rock	null	null
+726	5	rock	null	null
+726	6	rock	null	null
+726	7	rock	null	null
+726	8	rock	null	null
+726	9	rock	null	null
+726	10	rock	null	null
+726	1	hole	unk	null
+726	2	hole	null	null
+726	3	hole	null	null
+726	4	hole	null	null
+726	5	hole	null	null
+726	6	hole	null	null
+726	7	hole	null	null
+726	8	hole	null	null
+726	9	hole	null	null
+726	10	hole	null	null
+726	1	sand	unk	null
+726	2	sand	null	null
+726	3	sand	null	null
+726	4	sand	null	null
+726	5	sand	null	null
+726	6	sand	null	null
+726	7	sand	null	null
+726	8	sand	null	null
+726	9	sand	null	null
+726	10	sand	null	null
+726	1	animal's skeleton	unk	null
+726	2	animal's skeleton	null	null
+726	3	animal's skeleton	null	null
+726	4	animal's skeleton	null	null
+726	5	animal's skeleton	null	null
+726	6	animal's skeleton	null	null
+726	7	animal's skeleton	null	null
+726	8	animal's skeleton	null	null
+726	9	animal's skeleton	null	null
+726	10	animal's skeleton	null	null
+726	1	animal	unk	null
+726	2	animal	null	null
+726	3	animal	null	null
+726	4	animal	null	null
+726	5	animal	null	null
+726	6	animal	null	null
+726	7	animal	null	null
+726	8	animal	null	null
+726	9	animal	null	null
+726	10	animal	null	null
+726	1	mud	unk	null
+726	2	mud	null	null
+726	3	mud	null	null
+726	4	mud	null	null
+726	5	mud	null	null
+726	6	mud	null	null
+726	7	mud	null	null
+726	8	mud	null	null
+726	9	mud	null	null
+726	10	mud	null	null
+727	1	rock	unk	null
+727	2	rock	null	null
+727	3	rock	null	null
+727	4	rock	null	null
+727	5	rock	null	null
+727	6	rock	null	null
+727	7	rock	null	null
+727	8	rock	null	null
+727	9	rock	null	null
+727	10	rock	null	null
+727	1	soft tissues	unk	null
+727	2	soft tissues	null	null
+727	3	soft tissues	null	null
+727	4	soft tissues	null	null
+727	5	soft tissues	null	null
+727	6	soft tissues	null	null
+727	7	soft tissues	null	null
+727	8	soft tissues	null	null
+727	9	soft tissues	null	null
+727	10	soft tissues	null	null
+727	1	animal	unk	null
+727	2	animal	null	null
+727	3	animal	null	null
+727	4	animal	null	null
+727	5	animal	null	null
+727	6	animal	null	null
+727	7	animal	null	null
+727	8	animal	null	null
+727	9	animal	null	null
+727	10	animal	null	null
+727	1	bones	unk	null
+727	2	bones	null	null
+727	3	bones	null	null
+727	4	bones	null	null
+727	5	bones	null	null
+727	6	bones	null	null
+727	7	bones	null	null
+727	8	bones	null	null
+727	9	bones	null	null
+727	10	bones	null	null
+727	1	silt	unk	null
+727	2	silt	null	null
+727	3	silt	null	null
+727	4	silt	null	null
+727	5	silt	null	null
+727	6	silt	null	null
+727	7	silt	null	null
+727	8	silt	null	null
+727	9	silt	null	null
+727	10	silt	null	null
+727	1	minerals	unk	null
+727	2	minerals	null	null
+727	3	minerals	null	null
+727	4	minerals	null	null
+727	5	minerals	null	null
+727	6	minerals	null	null
+727	7	minerals	null	null
+727	8	minerals	null	null
+727	9	minerals	null	null
+727	10	minerals	null	null
+727	1	fossil	unk	null
+727	2	fossil	null	null
+727	3	fossil	null	null
+727	4	fossil	null	null
+727	5	fossil	null	null
+727	6	fossil	null	null
+727	7	fossil	null	null
+727	8	fossil	null	null
+727	9	fossil	null	null
+727	10	fossil	null	null
+727	1	mud	unk	null
+727	2	mud	null	null
+727	3	mud	null	null
+727	4	mud	null	null
+727	5	mud	null	null
+727	6	mud	null	null
+727	7	mud	null	null
+727	8	mud	null	null
+727	9	mud	null	null
+727	10	mud	null	null
+502	1	diesel	unk	null
+502	2	diesel	null	null
+502	3	diesel	null	null
+502	4	diesel	null	null
+502	5	diesel	null	null
+502	1	rotary motion	unk	null
+502	2	rotary motion	null	null
+502	3	rotary motion	null	null
+502	4	rotary motion	null	null
+502	5	rotary motion	null	null
+502	1	petrol	unk	null
+502	2	petrol	null	null
+502	3	petrol	null	null
+502	4	petrol	null	null
+502	5	petrol	null	null
+502	1	pistons	unk	null
+502	2	pistons	null	null
+502	3	pistons	null	null
+502	4	pistons	null	null
+502	5	pistons	null	null
+502	1	car	unk	null
+502	2	car	null	null
+502	3	car	null	null
+502	4	car	null	null
+502	5	car	null	null
+502	1	piston motion	unk	null
+502	2	piston motion	null	null
+502	3	piston motion	null	null
+502	4	piston motion	null	null
+502	5	piston motion	null	null
+502	1	energy	unk	null
+502	2	energy	null	null
+502	3	energy	null	null
+502	4	energy	null	null
+502	5	energy	null	null
+503	1	crankshaft	unk	null
+503	2	crankshaft	null	null
+503	3	crankshaft	null	null
+503	4	crankshaft	null	null
+503	5	crankshaft	null	null
+503	6	crankshaft	null	null
+503	7	crankshaft	null	null
+503	8	crankshaft	null	null
+503	9	crankshaft	null	null
+503	1	car	unk	null
+503	2	car	null	null
+503	3	car	null	null
+503	4	car	null	null
+503	5	car	null	null
+503	6	car	null	null
+503	7	car	null	null
+503	8	car	null	null
+503	9	car	null	null
+503	1	spark	unk	null
+503	2	spark	null	null
+503	3	spark	null	null
+503	4	spark	null	null
+503	5	spark	null	null
+503	6	spark	null	null
+503	7	spark	null	null
+503	8	spark	null	null
+503	9	spark	null	null
+503	1	piston	unk	null
+503	2	piston	null	null
+503	3	piston	null	null
+503	4	piston	null	null
+503	5	piston	null	null
+503	6	piston	null	null
+503	7	piston	null	null
+503	8	piston	null	null
+503	9	piston	null	null
+503	1	wheel	unk	null
+503	2	wheel	null	null
+503	3	wheel	null	null
+503	4	wheel	null	null
+503	5	wheel	null	null
+503	6	wheel	null	null
+503	7	wheel	null	null
+503	8	wheel	null	null
+503	9	wheel	null	null
+503	1	gas	unk	null
+503	2	gas	null	null
+503	3	gas	null	null
+503	4	gas	null	null
+503	5	gas	null	null
+503	6	gas	null	null
+503	7	gas	null	null
+503	8	gas	null	null
+503	9	gas	null	null
+503	1	gasoline	unk	null
+503	2	gasoline	null	null
+503	3	gasoline	null	null
+503	4	gasoline	null	null
+503	5	gasoline	null	null
+503	6	gasoline	null	null
+503	7	gasoline	null	null
+503	8	gasoline	null	null
+503	9	gasoline	null	null
+503	1	battery	unk	null
+503	2	battery	null	null
+503	3	battery	null	null
+503	4	battery	null	null
+503	5	battery	null	null
+503	6	battery	null	null
+503	7	battery	null	null
+503	8	battery	null	null
+503	9	battery	null	null
+1190	1	oxygenated blood	unk	null
+1190	2	oxygenated blood	null	null
+1190	3	oxygenated blood	null	null
+1190	4	oxygenated blood	null	null
+1190	5	oxygenated blood	null	null
+1190	6	oxygenated blood	null	null
+1190	7	oxygenated blood	null	null
+1190	8	oxygenated blood	null	null
+1190	9	oxygenated blood	null	null
+1190	10	oxygenated blood	null	null
+1190	1	deoxygenated blood	unk	null
+1190	2	deoxygenated blood	null	null
+1190	3	deoxygenated blood	null	null
+1190	4	deoxygenated blood	null	null
+1190	5	deoxygenated blood	null	null
+1190	6	deoxygenated blood	null	null
+1190	7	deoxygenated blood	null	null
+1190	8	deoxygenated blood	null	null
+1190	9	deoxygenated blood	null	null
+1190	10	deoxygenated blood	null	null
+1190	1	oxygen	unk	null
+1190	2	oxygen	null	null
+1190	3	oxygen	null	null
+1190	4	oxygen	null	null
+1190	5	oxygen	null	null
+1190	6	oxygen	null	null
+1190	7	oxygen	null	null
+1190	8	oxygen	null	null
+1190	9	oxygen	null	null
+1190	10	oxygen	null	null
+400	1	electricity	unk	null
+400	2	electricity	null	null
+400	3	electricity	null	null
+400	4	electricity	null	null
+400	5	electricity	null	null
+400	1	energy	unk	null
+400	2	energy	null	null
+400	3	energy	null	null
+400	4	energy	null	null
+400	5	energy	null	null
+401	1	sunlight	unk	null
+401	2	sunlight	null	null
+401	3	sunlight	null	null
+401	4	sunlight	null	null
+401	5	sunlight	null	null
+401	6	sunlight	null	null
+401	7	sunlight	null	null
+401	1	direct current	unk	null
+401	2	direct current	null	null
+401	3	direct current	null	null
+401	4	direct current	null	null
+401	5	direct current	null	null
+401	6	direct current	null	null
+401	7	direct current	null	null
+401	1	alternating current	unk	null
+401	2	alternating current	null	null
+401	3	alternating current	null	null
+401	4	alternating current	null	null
+401	5	alternating current	null	null
+401	6	alternating current	null	null
+401	7	alternating current	null	null
+1189	1	crater	unk	null
+1189	2	crater	null	null
+1189	3	crater	null	null
+1189	4	crater	null	null
+1189	5	crater	null	null
+1189	6	crater	null	null
+1189	1	chunks of rock	unk	null
+1189	2	chunks of rock	null	null
+1189	3	chunks of rock	null	null
+1189	4	chunks of rock	null	null
+1189	5	chunks of rock	null	null
+1189	6	chunks of rock	null	null
+1188	1	hole	unk	null
+1188	2	hole	null	null
+1188	3	hole	null	null
+1188	4	hole	null	null
+1188	5	hole	null	null
+1188	1	comet	unk	null
+1188	2	comet	null	null
+1188	3	comet	null	null
+1188	4	comet	null	null
+1188	5	comet	null	null
+409	1	image	unk	null
+409	2	image	null	null
+409	3	image	null	null
+409	4	image	null	null
+409	5	image	null	null
+409	6	image	null	null
+409	7	image	null	null
+409	1	electrical impulses	unk	null
+409	2	electrical impulses	null	null
+409	3	electrical impulses	null	null
+409	4	electrical impulses	null	null
+409	5	electrical impulses	null	null
+409	6	electrical impulses	null	null
+409	7	electrical impulses	null	null
+410	1	electric signal	unk	null
+410	2	electric signal	null	null
+410	3	electric signal	null	null
+410	4	electric signal	null	null
+410	5	electric signal	null	null
+410	6	electric signal	null	null
+410	1	light	unk	null
+410	2	light	null	null
+410	3	light	null	null
+410	4	light	null	null
+410	5	light	null	null
+410	6	light	null	null
+411	1	light	unk	unk
+411	2	light	unk	perception
+411	3	light	perception	perception
+411	4	light	perception	perception
+411	5	light	perception	perception
+411	6	light	perception	perception
+411	7	light	perception	perception
+411	8	light	perception	perception
+411	1	electrochemical signals	unk	unk
+411	2	electrochemical signals	unk	perception begin
+411	3	electrochemical signals	perception begin	perception begin
+411	4	electrochemical signals	perception begin	perception begin
+411	5	electrochemical signals	perception begin	perception begin
+411	6	electrochemical signals	perception begin	perception begin
+411	7	electrochemical signals	perception begin	perception begin
+411	8	electrochemical signals	perception begin	perception begin
+653	1	seed	unk	null
+653	2	seed	null	null
+653	3	seed	null	null
+653	4	seed	null	null
+653	5	seed	null	null
+653	6	seed	null	null
+653	1	fruit	unk	null
+653	2	fruit	null	null
+653	3	fruit	null	null
+653	4	fruit	null	null
+653	5	fruit	null	null
+653	6	fruit	null	null
+653	1	tree	unk	null
+653	2	tree	null	null
+653	3	tree	null	null
+653	4	tree	null	null
+653	5	tree	null	null
+653	6	tree	null	null
+653	1	flower	unk	null
+653	2	flower	null	null
+653	3	flower	null	null
+653	4	flower	null	null
+653	5	flower	null	null
+653	6	flower	null	null
+533	1	seed	unk	null
+533	2	seed	null	null
+533	3	seed	null	null
+533	4	seed	null	null
+533	5	seed	null	null
+533	6	seed	null	null
+533	7	seed	null	null
+533	1	sprouts	unk	null
+533	2	sprouts	null	null
+533	3	sprouts	null	null
+533	4	sprouts	null	null
+533	5	sprouts	null	null
+533	6	sprouts	null	null
+533	7	sprouts	null	null
+533	1	sapling	unk	null
+533	2	sapling	null	null
+533	3	sapling	null	null
+533	4	sapling	null	null
+533	5	sapling	null	null
+533	6	sapling	null	null
+533	7	sapling	null	null
+533	1	tree	unk	null
+533	2	tree	null	null
+533	3	tree	null	null
+533	4	tree	null	null
+533	5	tree	null	null
+533	6	tree	null	null
+533	7	tree	null	null
+654	1	tree	unk	null
+654	2	tree	null	null
+654	3	tree	null	null
+654	4	tree	null	null
+654	5	tree	null	null
+654	6	tree	null	null
+654	1	root system	unk	null
+654	2	root system	null	null
+654	3	root system	null	null
+654	4	root system	null	null
+654	5	root system	null	null
+654	6	root system	null	null
+654	1	material for new growth	unk	null
+654	2	material for new growth	null	null
+654	3	material for new growth	null	null
+654	4	material for new growth	null	null
+654	5	material for new growth	null	null
+654	6	material for new growth	null	null
+896	1	oxygenated blood	unk	null
+896	2	oxygenated blood	null	null
+896	3	oxygenated blood	null	null
+896	4	oxygenated blood	null	null
+896	5	oxygenated blood	null	null
+896	6	oxygenated blood	null	null
+896	7	oxygenated blood	null	null
+896	8	oxygenated blood	null	null
+896	9	oxygenated blood	null	null
+896	1	oxygen-depleted blood	unk	null
+896	2	oxygen-depleted blood	null	null
+896	3	oxygen-depleted blood	null	null
+896	4	oxygen-depleted blood	null	null
+896	5	oxygen-depleted blood	null	null
+896	6	oxygen-depleted blood	null	null
+896	7	oxygen-depleted blood	null	null
+896	8	oxygen-depleted blood	null	null
+896	9	oxygen-depleted blood	null	null
+896	1	blood	unk	null
+896	2	blood	null	null
+896	3	blood	null	null
+896	4	blood	null	null
+896	5	blood	null	null
+896	6	blood	null	null
+896	7	blood	null	null
+896	8	blood	null	null
+896	9	blood	null	null
+534	1	seed	unk	null
+534	2	seed	null	null
+534	3	seed	null	null
+534	4	seed	null	null
+534	5	seed	null	null
+534	6	seed	null	null
+534	7	seed	null	null
+534	1	fruit	unk	null
+534	2	fruit	null	null
+534	3	fruit	null	null
+534	4	fruit	null	null
+534	5	fruit	null	null
+534	6	fruit	null	null
+534	7	fruit	null	null
+534	1	tree	unk	null
+534	2	tree	null	null
+534	3	tree	null	null
+534	4	tree	null	null
+534	5	tree	null	null
+534	6	tree	null	null
+534	7	tree	null	null
+534	1	small tree	unk	null
+534	2	small tree	null	null
+534	3	small tree	null	null
+534	4	small tree	null	null
+534	5	small tree	null	null
+534	6	small tree	null	null
+534	7	small tree	null	null
+534	1	flowers	unk	null
+534	2	flowers	null	null
+534	3	flowers	null	null
+534	4	flowers	null	null
+534	5	flowers	null	null
+534	6	flowers	null	null
+534	7	flowers	null	null
+659	1	nitrogen	unk	null
+659	2	nitrogen	null	null
+659	3	nitrogen	null	null
+659	4	nitrogen	null	null
+659	5	nitrogen	null	null
+659	6	nitrogen	null	null
+659	1	plant	unk	null
+659	2	plant	null	null
+659	3	plant	null	null
+659	4	plant	null	null
+659	5	plant	null	null
+659	6	plant	null	null
+659	1	ammonium	unk	null
+659	2	ammonium	null	null
+659	3	ammonium	null	null
+659	4	ammonium	null	null
+659	5	ammonium	null	null
+659	6	ammonium	null	null
+659	1	extra nitrogen	unk	null
+659	2	extra nitrogen	null	null
+659	3	extra nitrogen	null	null
+659	4	extra nitrogen	null	null
+659	5	extra nitrogen	null	null
+659	6	extra nitrogen	null	null
+659	1	nitrates	unk	null
+659	2	nitrates	null	null
+659	3	nitrates	null	null
+659	4	nitrates	null	null
+659	5	nitrates	null	null
+659	6	nitrates	null	null
+660	1	wastes	unk	null
+660	2	wastes	null	null
+660	3	wastes	null	null
+660	4	wastes	null	null
+660	5	wastes	null	null
+660	6	wastes	null	null
+660	7	wastes	null	null
+660	8	wastes	null	null
+660	9	wastes	null	null
+660	1	organic nitrogen	unk	null
+660	2	organic nitrogen	null	null
+660	3	organic nitrogen	null	null
+660	4	organic nitrogen	null	null
+660	5	organic nitrogen	null	null
+660	6	organic nitrogen	null	null
+660	7	organic nitrogen	null	null
+660	8	organic nitrogen	null	null
+660	9	organic nitrogen	null	null
+660	1	plants	unk	null
+660	2	plants	null	null
+660	3	plants	null	null
+660	4	plants	null	null
+660	5	plants	null	null
+660	6	plants	null	null
+660	7	plants	null	null
+660	8	plants	null	null
+660	9	plants	null	null
+660	1	atmospheric nitrogen	unk	null
+660	2	atmospheric nitrogen	null	null
+660	3	atmospheric nitrogen	null	null
+660	4	atmospheric nitrogen	null	null
+660	5	atmospheric nitrogen	null	null
+660	6	atmospheric nitrogen	null	null
+660	7	atmospheric nitrogen	null	null
+660	8	atmospheric nitrogen	null	null
+660	9	atmospheric nitrogen	null	null
+660	1	ammonium	unk	null
+660	2	ammonium	null	null
+660	3	ammonium	null	null
+660	4	ammonium	null	null
+660	5	ammonium	null	null
+660	6	ammonium	null	null
+660	7	ammonium	null	null
+660	8	ammonium	null	null
+660	9	ammonium	null	null
+660	1	animals	unk	null
+660	2	animals	null	null
+660	3	animals	null	null
+660	4	animals	null	null
+660	5	animals	null	null
+660	6	animals	null	null
+660	7	animals	null	null
+660	8	animals	null	null
+660	9	animals	null	null
+660	1	nitrate	unk	null
+660	2	nitrate	null	null
+660	3	nitrate	null	null
+660	4	nitrate	null	null
+660	5	nitrate	null	null
+660	6	nitrate	null	null
+660	7	nitrate	null	null
+660	8	nitrate	null	null
+660	9	nitrate	null	null
+660	1	nitrogen gas	unk	null
+660	2	nitrogen gas	null	null
+660	3	nitrogen gas	null	null
+660	4	nitrogen gas	null	null
+660	5	nitrogen gas	null	null
+660	6	nitrogen gas	null	null
+660	7	nitrogen gas	null	null
+660	8	nitrogen gas	null	null
+660	9	nitrogen gas	null	null
+661	1	nitrogen	unk	null
+661	2	nitrogen	null	null
+661	3	nitrogen	null	null
+661	4	nitrogen	null	null
+661	5	nitrogen	null	null
+661	6	nitrogen	null	null
+661	7	nitrogen	null	null
+661	8	nitrogen	null	null
+661	9	nitrogen	null	null
+661	1	plant	unk	null
+661	2	plant	null	null
+661	3	plant	null	null
+661	4	plant	null	null
+661	5	plant	null	null
+661	6	plant	null	null
+661	7	plant	null	null
+661	8	plant	null	null
+661	9	plant	null	null
+661	1	ammonium	unk	null
+661	2	ammonium	null	null
+661	3	ammonium	null	null
+661	4	ammonium	null	null
+661	5	ammonium	null	null
+661	6	ammonium	null	null
+661	7	ammonium	null	null
+661	8	ammonium	null	null
+661	9	ammonium	null	null
+661	1	animal	unk	null
+661	2	animal	null	null
+661	3	animal	null	null
+661	4	animal	null	null
+661	5	animal	null	null
+661	6	animal	null	null
+661	7	animal	null	null
+661	8	animal	null	null
+661	9	animal	null	null
+661	1	nitrates	unk	null
+661	2	nitrates	null	null
+661	3	nitrates	null	null
+661	4	nitrates	null	null
+661	5	nitrates	null	null
+661	6	nitrates	null	null
+661	7	nitrates	null	null
+661	8	nitrates	null	null
+661	9	nitrates	null	null
+429	1	waste	unk	null
+429	2	waste	null	null
+429	3	waste	null	null
+429	4	waste	null	null
+429	5	waste	null	null
+429	6	waste	null	null
+429	7	waste	null	null
+429	8	waste	null	null
+429	9	waste	null	null
+429	10	waste	null	null
+429	1	gas-based form	unk	null
+429	2	gas-based form	null	null
+429	3	gas-based form	null	null
+429	4	gas-based form	null	null
+429	5	gas-based form	null	null
+429	6	gas-based form	null	null
+429	7	gas-based form	null	null
+429	8	gas-based form	null	null
+429	9	gas-based form	null	null
+429	10	gas-based form	null	null
+429	1	nitrogen	unk	null
+429	2	nitrogen	null	null
+429	3	nitrogen	null	null
+429	4	nitrogen	null	null
+429	5	nitrogen	null	null
+429	6	nitrogen	null	null
+429	7	nitrogen	null	null
+429	8	nitrogen	null	null
+429	9	nitrogen	null	null
+429	10	nitrogen	null	null
+429	1	plants	unk	null
+429	2	plants	null	null
+429	3	plants	null	null
+429	4	plants	null	null
+429	5	plants	null	null
+429	6	plants	null	null
+429	7	plants	null	null
+429	8	plants	null	null
+429	9	plants	null	null
+429	10	plants	null	null
+429	1	usable nitrogen	unk	null
+429	2	usable nitrogen	null	null
+429	3	usable nitrogen	null	null
+429	4	usable nitrogen	null	null
+429	5	usable nitrogen	null	null
+429	6	usable nitrogen	null	null
+429	7	usable nitrogen	null	null
+429	8	usable nitrogen	null	null
+429	9	usable nitrogen	null	null
+429	10	usable nitrogen	null	null
+791	1	ac electricity	unk	null
+791	2	ac electricity	null	null
+791	3	ac electricity	null	null
+791	4	ac electricity	null	null
+791	5	ac electricity	null	null
+791	6	ac electricity	null	null
+791	1	dc electricity	unk	null
+791	2	dc electricity	null	null
+791	3	dc electricity	null	null
+791	4	dc electricity	null	null
+791	5	dc electricity	null	null
+791	6	dc electricity	null	null
+310	1	carbon dioxide	unk	null
+310	2	carbon dioxide	null	null
+310	3	carbon dioxide	null	null
+310	4	carbon dioxide	null	null
+310	5	carbon dioxide	null	null
+310	6	carbon dioxide	null	null
+310	1	blood	unk	null
+310	2	blood	null	null
+310	3	blood	null	null
+310	4	blood	null	null
+310	5	blood	null	null
+310	6	blood	null	null
+310	1	oxygen	unk	null
+310	2	oxygen	null	null
+310	3	oxygen	null	null
+310	4	oxygen	null	null
+310	5	oxygen	null	null
+310	6	oxygen	null	null
+695	1	clouds	unk	null
+695	2	clouds	null	null
+695	3	clouds	null	null
+695	4	clouds	null	null
+695	5	clouds	null	null
+695	6	clouds	null	null
+695	7	clouds	null	null
+695	1	rain	unk	null
+695	2	rain	null	null
+695	3	rain	null	null
+695	4	rain	null	null
+695	5	rain	null	null
+695	6	rain	null	null
+695	7	rain	null	null
+695	1	vapor	unk	null
+695	2	vapor	null	null
+695	3	vapor	null	null
+695	4	vapor	null	null
+695	5	vapor	null	null
+695	6	vapor	null	null
+695	7	vapor	null	null
+695	1	water vapor	unk	null
+695	2	water vapor	null	null
+695	3	water vapor	null	null
+695	4	water vapor	null	null
+695	5	water vapor	null	null
+695	6	water vapor	null	null
+695	7	water vapor	null	null
+695	1	snow	unk	null
+695	2	snow	null	null
+695	3	snow	null	null
+695	4	snow	null	null
+695	5	snow	null	null
+695	6	snow	null	null
+695	7	snow	null	null
+695	1	steam	unk	null
+695	2	steam	null	null
+695	3	steam	null	null
+695	4	steam	null	null
+695	5	steam	null	null
+695	6	steam	null	null
+695	7	steam	null	null
+695	1	hail	unk	null
+695	2	hail	null	null
+695	3	hail	null	null
+695	4	hail	null	null
+695	5	hail	null	null
+695	6	hail	null	null
+695	7	hail	null	null
+695	1	sleet	unk	null
+695	2	sleet	null	null
+695	3	sleet	null	null
+695	4	sleet	null	null
+695	5	sleet	null	null
+695	6	sleet	null	null
+695	7	sleet	null	null
+695	1	water	unk	null
+695	2	water	null	null
+695	3	water	null	null
+695	4	water	null	null
+695	5	water	null	null
+695	6	water	null	null
+695	7	water	null	null
+696	1	cloud	unk	null
+696	2	cloud	null	null
+696	3	cloud	null	null
+696	4	cloud	null	null
+696	5	cloud	null	null
+696	6	cloud	null	null
+696	1	rain	unk	null
+696	2	rain	null	null
+696	3	rain	null	null
+696	4	rain	null	null
+696	5	rain	null	null
+696	6	rain	null	null
+696	1	water vapor	unk	null
+696	2	water vapor	null	null
+696	3	water vapor	null	null
+696	4	water vapor	null	null
+696	5	water vapor	null	null
+696	6	water vapor	null	null
+696	1	water droplets	unk	null
+696	2	water droplets	null	null
+696	3	water droplets	null	null
+696	4	water droplets	null	null
+696	5	water droplets	null	null
+696	6	water droplets	null	null
+697	1	clouds	unk	null
+697	2	clouds	null	null
+697	3	clouds	null	null
+697	4	clouds	null	null
+697	5	clouds	null	null
+697	1	rain	unk	null
+697	2	rain	null	null
+697	3	rain	null	null
+697	4	rain	null	null
+697	5	rain	null	null
+697	1	water	unk	null
+697	2	water	null	null
+697	3	water	null	null
+697	4	water	null	null
+697	5	water	null	null
+460	1	living things	unk	null
+460	2	living things	null	null
+460	3	living things	null	null
+460	4	living things	null	null
+460	5	living things	null	null
+460	6	living things	null	null
+460	7	living things	null	null
+460	8	living things	null	null
+460	9	living things	null	null
+460	10	living things	null	null
+460	1	fossil fuel	unk	null
+460	2	fossil fuel	null	null
+460	3	fossil fuel	null	null
+460	4	fossil fuel	null	null
+460	5	fossil fuel	null	null
+460	6	fossil fuel	null	null
+460	7	fossil fuel	null	null
+460	8	fossil fuel	null	null
+460	9	fossil fuel	null	null
+460	10	fossil fuel	null	null
+460	1	carbon	unk	null
+460	2	carbon	null	null
+460	3	carbon	null	null
+460	4	carbon	null	null
+460	5	carbon	null	null
+460	6	carbon	null	null
+460	7	carbon	null	null
+460	8	carbon	null	null
+460	9	carbon	null	null
+460	10	carbon	null	null
+460	1	carbon-based mixture	unk	null
+460	2	carbon-based mixture	null	null
+460	3	carbon-based mixture	null	null
+460	4	carbon-based mixture	null	null
+460	5	carbon-based mixture	null	null
+460	6	carbon-based mixture	null	null
+460	7	carbon-based mixture	null	null
+460	8	carbon-based mixture	null	null
+460	9	carbon-based mixture	null	null
+460	10	carbon-based mixture	null	null
+460	1	power	unk	null
+460	2	power	null	null
+460	3	power	null	null
+460	4	power	null	null
+460	5	power	null	null
+460	6	power	null	null
+460	7	power	null	null
+460	8	power	null	null
+460	9	power	null	null
+460	10	power	null	null
+460	1	remains of living things	unk	null
+460	2	remains of living things	null	null
+460	3	remains of living things	null	null
+460	4	remains of living things	null	null
+460	5	remains of living things	null	null
+460	6	remains of living things	null	null
+460	7	remains of living things	null	null
+460	8	remains of living things	null	null
+460	9	remains of living things	null	null
+460	10	remains of living things	null	null
+460	1	energy	unk	null
+460	2	energy	null	null
+460	3	energy	null	null
+460	4	energy	null	null
+460	5	energy	null	null
+460	6	energy	null	null
+460	7	energy	null	null
+460	8	energy	null	null
+460	9	energy	null	null
+460	10	energy	null	null
+582	1	circular patterns	unk	null
+582	2	circular patterns	null	null
+582	3	circular patterns	null	null
+582	4	circular patterns	null	null
+582	5	circular patterns	null	null
+582	6	circular patterns	null	null
+582	7	circular patterns	null	null
+582	8	circular patterns	null	null
+582	1	tornado	unk	null
+582	2	tornado	null	null
+582	3	tornado	null	null
+582	4	tornado	null	null
+582	5	tornado	null	null
+582	6	tornado	null	null
+582	7	tornado	null	null
+582	8	tornado	null	null
+582	1	cool, dry air	unk	null
+582	2	cool, dry air	null	null
+582	3	cool, dry air	null	null
+582	4	cool, dry air	null	null
+582	5	cool, dry air	null	null
+582	6	cool, dry air	null	null
+582	7	cool, dry air	null	null
+582	8	cool, dry air	null	null
+582	1	air masses	unk	null
+582	2	air masses	null	null
+582	3	air masses	null	null
+582	4	air masses	null	null
+582	5	air masses	null	null
+582	6	air masses	null	null
+582	7	air masses	null	null
+582	8	air masses	null	null
+582	1	warm, moist air	unk	null
+582	2	warm, moist air	null	null
+582	3	warm, moist air	null	null
+582	4	warm, moist air	null	null
+582	5	warm, moist air	null	null
+582	6	warm, moist air	null	null
+582	7	warm, moist air	null	null
+582	8	warm, moist air	null	null
+582	1	masses	unk	null
+582	2	masses	null	null
+582	3	masses	null	null
+582	4	masses	null	null
+582	5	masses	null	null
+582	6	masses	null	null
+582	7	masses	null	null
+582	8	masses	null	null
+582	1	updraft	unk	null
+582	2	updraft	null	null
+582	3	updraft	null	null
+582	4	updraft	null	null
+582	5	updraft	null	null
+582	6	updraft	null	null
+582	7	updraft	null	null
+582	8	updraft	null	null
+582	1	wind	unk	null
+582	2	wind	null	null
+582	3	wind	null	null
+582	4	wind	null	null
+582	5	wind	null	null
+582	6	wind	null	null
+582	7	wind	null	null
+582	8	wind	null	null
+583	1	dry, cold high-pressure air	unk	null
+583	2	dry, cold high-pressure air	null	null
+583	3	dry, cold high-pressure air	null	null
+583	4	dry, cold high-pressure air	null	null
+583	5	dry, cold high-pressure air	null	null
+583	6	dry, cold high-pressure air	null	null
+583	1	funnel	unk	null
+583	2	funnel	null	null
+583	3	funnel	null	null
+583	4	funnel	null	null
+583	5	funnel	null	null
+583	6	funnel	null	null
+583	1	rotation	unk	null
+583	2	rotation	null	null
+583	3	rotation	null	null
+583	4	rotation	null	null
+583	5	rotation	null	null
+583	6	rotation	null	null
+583	1	updraft	unk	null
+583	2	updraft	null	null
+583	3	updraft	null	null
+583	4	updraft	null	null
+583	5	updraft	null	null
+583	6	updraft	null	null
+463	1	ice particle	unk	null
+463	2	ice particle	null	null
+463	3	ice particle	null	null
+463	4	ice particle	null	null
+463	5	ice particle	null	null
+463	1	hailstone	unk	null
+463	2	hailstone	null	null
+463	3	hailstone	null	null
+463	4	hailstone	null	null
+463	5	hailstone	null	null
+463	1	raindrops	unk	null
+463	2	raindrops	null	null
+463	3	raindrops	null	null
+463	4	raindrops	null	null
+463	5	raindrops	null	null
+465	1	hail	unk	null
+465	2	hail	null	null
+465	3	hail	null	null
+465	4	hail	null	null
+465	5	hail	null	null
+465	6	hail	null	null
+465	7	hail	null	null
+465	1	water	unk	null
+465	2	water	null	null
+465	3	water	null	null
+465	4	water	null	null
+465	5	water	null	null
+465	6	water	null	null
+465	7	water	null	null
+249	1	rocks	unk	null
+249	2	rocks	null	null
+249	3	rocks	null	null
+249	4	rocks	null	null
+249	5	rocks	null	null
+249	6	rocks	null	null
+249	7	rocks	null	null
+249	8	rocks	null	null
+249	1	certain types of rocks	unk	null
+249	2	certain types of rocks	null	null
+249	3	certain types of rocks	null	null
+249	4	certain types of rocks	null	null
+249	5	certain types of rocks	null	null
+249	6	certain types of rocks	null	null
+249	7	certain types of rocks	null	null
+249	8	certain types of rocks	null	null
+249	1	smaller pieces	unk	null
+249	2	smaller pieces	null	null
+249	3	smaller pieces	null	null
+249	4	smaller pieces	null	null
+249	5	smaller pieces	null	null
+249	6	smaller pieces	null	null
+249	7	smaller pieces	null	null
+249	8	smaller pieces	null	null
+249	1	new types of rocks	unk	null
+249	2	new types of rocks	null	null
+249	3	new types of rocks	null	null
+249	4	new types of rocks	null	null
+249	5	new types of rocks	null	null
+249	6	new types of rocks	null	null
+249	7	new types of rocks	null	null
+249	8	new types of rocks	null	null
+249	1	new substance	unk	null
+249	2	new substance	null	null
+249	3	new substance	null	null
+249	4	new substance	null	null
+249	5	new substance	null	null
+249	6	new substance	null	null
+249	7	new substance	null	null
+249	8	new substance	null	null
+249	1	oxygen	unk	null
+249	2	oxygen	null	null
+249	3	oxygen	null	null
+249	4	oxygen	null	null
+249	5	oxygen	null	null
+249	6	oxygen	null	null
+249	7	oxygen	null	null
+249	8	oxygen	null	null
+37	1	soft tissues	unk	null
+37	2	soft tissues	null	null
+37	3	soft tissues	null	null
+37	4	soft tissues	null	null
+37	5	soft tissues	null	null
+37	6	soft tissues	null	null
+37	1	plant	unk	null
+37	2	plant	null	null
+37	3	plant	null	null
+37	4	plant	null	null
+37	5	plant	null	null
+37	6	plant	null	null
+37	1	animal	unk	null
+37	2	animal	null	null
+37	3	animal	null	null
+37	4	animal	null	null
+37	5	animal	null	null
+37	6	animal	null	null
+37	1	bones	unk	null
+37	2	bones	null	null
+37	3	bones	null	null
+37	4	bones	null	null
+37	5	bones	null	null
+37	6	bones	null	null
+37	1	mineral	unk	null
+37	2	mineral	null	null
+37	3	mineral	null	null
+37	4	mineral	null	null
+37	5	mineral	null	null
+37	6	mineral	null	null
+37	1	fossils	unk	null
+37	2	fossils	null	null
+37	3	fossils	null	null
+37	4	fossils	null	null
+37	5	fossils	null	null
+37	6	fossils	null	null
+38	1	rock	unk	null
+38	2	rock	null	null
+38	3	rock	null	null
+38	4	rock	null	null
+38	5	rock	null	null
+38	6	rock	null	null
+38	7	rock	null	null
+38	1	animal	unk	null
+38	2	animal	null	null
+38	3	animal	null	null
+38	4	animal	null	null
+38	5	animal	null	null
+38	6	animal	null	null
+38	7	animal	null	null
+38	1	soil	unk	null
+38	2	soil	null	null
+38	3	soil	null	null
+38	4	soil	null	null
+38	5	soil	null	null
+38	6	soil	null	null
+38	7	soil	null	null
+38	1	body	unk	null
+38	2	body	null	null
+38	3	body	null	null
+38	4	body	null	null
+38	5	body	null	null
+38	6	body	null	null
+38	7	body	null	null
+38	1	fossil	unk	null
+38	2	fossil	null	null
+38	3	fossil	null	null
+38	4	fossil	null	null
+38	5	fossil	null	null
+38	6	fossil	null	null
+38	7	fossil	null	null
+152	1	cloud droplets	unk	null
+152	2	cloud droplets	null	null
+152	3	cloud droplets	null	null
+152	4	cloud droplets	null	null
+152	5	cloud droplets	null	null
+152	6	cloud droplets	null	null
+152	1	solid	unk	null
+152	2	solid	null	null
+152	3	solid	null	null
+152	4	solid	null	null
+152	5	solid	null	null
+152	6	solid	null	null
+152	1	vapor	unk	null
+152	2	vapor	null	null
+152	3	vapor	null	null
+152	4	vapor	null	null
+152	5	vapor	null	null
+152	6	vapor	null	null
+152	1	water vapor	unk	null
+152	2	water vapor	null	null
+152	3	water vapor	null	null
+152	4	water vapor	null	null
+152	5	water vapor	null	null
+152	6	water vapor	null	null
+152	1	lifted vapor	unk	null
+152	2	lifted vapor	null	null
+152	3	lifted vapor	null	null
+152	4	lifted vapor	null	null
+152	5	lifted vapor	null	null
+152	6	lifted vapor	null	null
+67	1	dead plants	unk	null
+67	2	dead plants	null	null
+67	3	dead plants	null	null
+67	4	dead plants	null	null
+67	5	dead plants	null	null
+67	6	dead plants	null	null
+67	7	dead plants	null	null
+67	8	dead plants	null	null
+67	9	dead plants	null	null
+67	1	plants	unk	null
+67	2	plants	null	null
+67	3	plants	null	null
+67	4	plants	null	null
+67	5	plants	null	null
+67	6	plants	null	null
+67	7	plants	null	null
+67	8	plants	null	null
+67	9	plants	null	null
+67	1	coal	unk	null
+67	2	coal	null	null
+67	3	coal	null	null
+67	4	coal	null	null
+67	5	coal	null	null
+67	6	coal	null	null
+67	7	coal	null	null
+67	8	coal	null	null
+67	9	coal	null	null
+67	1	peat	unk	null
+67	2	peat	null	null
+67	3	peat	null	null
+67	4	peat	null	null
+67	5	peat	null	null
+67	6	peat	null	null
+67	7	peat	null	null
+67	8	peat	null	null
+67	9	peat	null	null
+68	1	heat	unk	null
+68	2	heat	null	null
+68	3	heat	null	null
+68	4	heat	null	null
+68	5	heat	null	null
+68	6	heat	null	null
+68	7	heat	null	null
+68	1	burial peat	unk	null
+68	2	burial peat	null	null
+68	3	burial peat	null	null
+68	4	burial peat	null	null
+68	5	burial peat	null	null
+68	6	burial peat	null	null
+68	7	burial peat	null	null
+68	1	plant and tree remains	unk	null
+68	2	plant and tree remains	null	null
+68	3	plant and tree remains	null	null
+68	4	plant and tree remains	null	null
+68	5	plant and tree remains	null	null
+68	6	plant and tree remains	null	null
+68	7	plant and tree remains	null	null
+68	1	plants	unk	null
+68	2	plants	null	null
+68	3	plants	null	null
+68	4	plants	null	null
+68	5	plants	null	null
+68	6	plants	null	null
+68	7	plants	null	null
+68	1	trees	unk	null
+68	2	trees	null	null
+68	3	trees	null	null
+68	4	trees	null	null
+68	5	trees	null	null
+68	6	trees	null	null
+68	7	trees	null	null
+68	1	coal	unk	null
+68	2	coal	null	null
+68	3	coal	null	null
+68	4	coal	null	null
+68	5	coal	null	null
+68	6	coal	null	null
+68	7	coal	null	null
+68	1	peat	unk	null
+68	2	peat	null	null
+68	3	peat	null	null
+68	4	peat	null	null
+68	5	peat	null	null
+68	6	peat	null	null
+68	7	peat	null	null
+68	1	water	unk	null
+68	2	water	null	null
+68	3	water	null	null
+68	4	water	null	null
+68	5	water	null	null
+68	6	water	null	null
+68	7	water	null	null
+69	1	sedimentary rocks	unk	null
+69	2	sedimentary rocks	null	null
+69	3	sedimentary rocks	null	null
+69	4	sedimentary rocks	null	null
+69	5	sedimentary rocks	null	null
+69	6	sedimentary rocks	null	null
+69	7	sedimentary rocks	null	null
+69	1	sand	unk	null
+69	2	sand	null	null
+69	3	sand	null	null
+69	4	sand	null	null
+69	5	sand	null	null
+69	6	sand	null	null
+69	7	sand	null	null
+69	1	plants	unk	null
+69	2	plants	null	null
+69	3	plants	null	null
+69	4	plants	null	null
+69	5	plants	null	null
+69	6	plants	null	null
+69	7	plants	null	null
+69	1	trees	unk	null
+69	2	trees	null	null
+69	3	trees	null	null
+69	4	trees	null	null
+69	5	trees	null	null
+69	6	trees	null	null
+69	7	trees	null	null
+69	1	coal	unk	null
+69	2	coal	null	null
+69	3	coal	null	null
+69	4	coal	null	null
+69	5	coal	null	null
+69	6	coal	null	null
+69	7	coal	null	null
+69	1	pressure	unk	null
+69	2	pressure	null	null
+69	3	pressure	null	null
+69	4	pressure	null	null
+69	5	pressure	null	null
+69	6	pressure	null	null
+69	7	pressure	null	null
+69	1	peat	unk	null
+69	2	peat	null	null
+69	3	peat	null	null
+69	4	peat	null	null
+69	5	peat	null	null
+69	6	peat	null	null
+69	7	peat	null	null
+69	1	water	unk	null
+69	2	water	null	null
+69	3	water	null	null
+69	4	water	null	null
+69	5	water	null	null
+69	6	water	null	null
+69	7	water	null	null
+69	1	clay	unk	null
+69	2	clay	null	null
+69	3	clay	null	null
+69	4	clay	null	null
+69	5	clay	null	null
+69	6	clay	null	null
+69	7	clay	null	null
+70	1	rain	unk	null
+70	2	rain	null	null
+70	3	rain	null	null
+70	4	rain	null	null
+70	5	rain	null	null
+70	6	rain	null	null
+70	7	rain	null	null
+70	8	rain	null	null
+70	1	water levels	unk	null
+70	2	water levels	null	null
+70	3	water levels	null	null
+70	4	water levels	null	null
+70	5	water levels	null	null
+70	6	water levels	null	null
+70	7	water levels	null	null
+70	8	water levels	null	null
+70	1	streams	unk	null
+70	2	streams	null	null
+70	3	streams	null	null
+70	4	streams	null	null
+70	5	streams	null	null
+70	6	streams	null	null
+70	7	streams	null	null
+70	8	streams	null	null
+70	1	water	unk	null
+70	2	water	null	null
+70	3	water	null	null
+70	4	water	null	null
+70	5	water	null	null
+70	6	water	null	null
+70	7	water	null	null
+70	8	water	null	null
+99	1	clouds	unk	null
+99	2	clouds	null	null
+99	3	clouds	null	null
+99	4	clouds	null	null
+99	5	clouds	null	null
+99	6	clouds	null	null
+99	7	clouds	null	null
+99	1	a very different ecosystem	unk	null
+99	2	a very different ecosystem	null	null
+99	3	a very different ecosystem	null	null
+99	4	a very different ecosystem	null	null
+99	5	a very different ecosystem	null	null
+99	6	a very different ecosystem	null	null
+99	7	a very different ecosystem	null	null
+99	1	rain	unk	null
+99	2	rain	null	null
+99	3	rain	null	null
+99	4	rain	null	null
+99	5	rain	null	null
+99	6	rain	null	null
+99	7	rain	null	null
+99	1	rain clouds	unk	null
+99	2	rain clouds	null	null
+99	3	rain clouds	null	null
+99	4	rain clouds	null	null
+99	5	rain clouds	null	null
+99	6	rain clouds	null	null
+99	7	rain clouds	null	null
+99	1	desert	unk	null
+99	2	desert	null	null
+99	3	desert	null	null
+99	4	desert	null	null
+99	5	desert	null	null
+99	6	desert	null	null
+99	7	desert	null	null
+903	1	image	unk	null
+903	2	image	null	null
+903	3	image	null	null
+903	4	image	null	null
+903	5	image	null	null
+903	1	light	unk	null
+903	2	light	null	null
+903	3	light	null	null
+903	4	light	null	null
+903	5	light	null	null
+903	1	visible light	unk	null
+903	2	visible light	null	null
+903	3	visible light	null	null
+903	4	visible light	null	null
+903	5	visible light	null	null
+903	1	chemical energy	unk	null
+903	2	chemical energy	null	null
+903	3	chemical energy	null	null
+903	4	chemical energy	null	null
+903	5	chemical energy	null	null
+904	1	electrical pulses	unk	null
+904	2	electrical pulses	null	null
+904	3	electrical pulses	null	null
+904	4	electrical pulses	null	null
+904	5	electrical pulses	null	null
+904	1	light	unk	null
+904	2	light	null	null
+904	3	light	null	null
+904	4	light	null	null
+904	5	light	null	null
+904	1	small image	unk	null
+904	2	small image	null	null
+904	3	small image	null	null
+904	4	small image	null	null
+904	5	small image	null	null
+904	1	retina's rods and cones	unk	null
+904	2	retina's rods and cones	null	null
+904	3	retina's rods and cones	null	null
+904	4	retina's rods and cones	null	null
+904	5	retina's rods and cones	null	null
