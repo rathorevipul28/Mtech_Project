@@ -1,15 +1,16 @@
 # Mtech_Project
-Command to train model:
+**Command to train model:**
 python ProGCN/train_latest.py 256 256 0.1 0.9 0.0001 ProGCN/models/ ProGCN/results/
-Format:
+**Format:**
 python <filename> <lstm_dim> <gcn_dim> <dropout> <recurrent_dropout> <learning_rate> <model_save_location> <result_save_location>
 
-Command to evaluate test file -
+**Command to evaluate test file -**
 python ProGCN/evalQA.py propara_naacl_2018/tests/fixtures/eval/para_id.test.txt propara_naacl_2018/tests/fixtures/eval/gold_labels.test.tsv ProGCN/data/propara-results-test_latest.txt
 
-Sample Output -
+**Sample Output -**
 
-	Total	TP	FP	TN	FN	Accuracy	Precision	Recall	F1
+|	|Total	|TP	|FP	|TN	|FN	|Accuracy	|Precision	|Recall	|F1
+|  --- | --- | ------ | --- | ------ | --- | ---
 Q1	1245	0	0	577	668	46.35	0.00	0.00	0.00
 Q2	677	0	0	0	677	0.00	0.00	0.00	0.00
 Q3	529	148	194	0	187	27.98	43.27	44.18	43.72
